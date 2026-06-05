@@ -1,4 +1,4 @@
-# AI Studio Performance Fix
+🇬🇧 [English version](README_EN.md) # AI Studio Performance Fix
 
 Фикс лагов ввода, мерцания текста и драки за скролл в **Google AI Studio** при работе с длинными чатами (200K+ токенов).
 
