@@ -1,4 +1,4 @@
-# AI Studio Performance Fix
+🇷🇺 [Русская версия](README.md) # AI Studio Performance Fix
 
 Fixes input lag, text flickering, and scroll-fighting in **Google AI Studio** when working with long chats (200K+ tokens).
 
