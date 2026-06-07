@@ -4,9 +4,6 @@
 Если этот скрипт помог вам избавиться от лагов в Google AI Studio, пожалуйста, **поставьте звезду (Star)** этому репозиторию в правом верхнем углу страницы! Это помогает продвигать проект в топ GitHub, чтобы другие разработчики тоже смогли его найти. Большое спасибо!  
 
 ---
-<a href="https://github.com"><img src="https://shields.io" alt="GitHub stars"></a>
-
-
 
 🇬🇧 [English version](README_EN.md) # AI Studio Performance Fix
 
