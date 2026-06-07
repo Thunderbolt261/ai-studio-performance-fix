@@ -1,5 +1,7 @@
 🇷🇺 [Русская версия](README.md) # AI Studio Performance Fix
 
+🌟 Support the project!
+If this script helps you get rid of lag in Google AI Studio, please star this repository in the upper right corner of the page! This helps promote the project to the top of GitHub so other developers can find it too. Thank you very much!
 Fixes input lag, text flickering, and scroll-fighting in **Google AI Studio** when working with long chats (200K+ tokens).
 
 ## The Problem
